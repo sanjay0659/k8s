@@ -17,4 +17,4 @@ spec:
     spec:
       containers:
         - name: myproject
-          image: docker.io/botadmin/project1:e4
+          image: docker.io/botadmin/mypractice:87
